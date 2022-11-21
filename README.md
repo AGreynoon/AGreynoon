@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/a_greynoon" target="blank"><img src="https://img.shields.io/twitter/follow/a_greynoon?logo=twitter&style=for-the-badge" alt="a_greynoon" /></a> </p>
 
-- 📝 I regularly write articles on [http://greynoon.wordpress.com](http://greynoon.wordpress.com)
 
 - 📫 How to reach me **ahmed_ameen_greynoon@outlook.com**
 
