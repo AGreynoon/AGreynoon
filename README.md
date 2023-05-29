@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/VWLQGsg/mobile-application-developer.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Greynoon</h1>
 <h3 align="center">A passionate flutter developer from Yemen</h3>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
+<img align="right" alt="coding" width="150" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
 - 🌱 I’m currently learning **Node.js, odoo**
 
 - 💬 Ask me about **Flutter**
