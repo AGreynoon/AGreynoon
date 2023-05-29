@@ -1,6 +1,11 @@
+[![MasterHead](https://ibb.co/WWHPXLk)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Greynoon</h1>
 <h3 align="center">A passionate flutter developer from Yemen</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agreynoon&label=Profile%20views&color=0e75b6&style=flat" alt="agreynoon" /> </p>
+
+<p align="left"> <a href="https://twitter.com/a_greynoon" target="blank"><img src="https://img.shields.io/twitter/follow/a_greynoon?logo=twitter&style=for-the-badge" alt="a_greynoon" /></a> </p>
+
 - 🌱 I’m currently learning **Node.js, odoo**
 
 - 💬 Ask me about **Flutter**
@@ -18,4 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agreynoon&show_icons=true&locale=en" alt="agreynoon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agreynoon&" alt="agreynoon" /></p>
 
