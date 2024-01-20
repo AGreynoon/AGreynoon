@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/a_greynoon" target="blank"><img src="https://img.shields.io/twitter/follow/a_greynoon?logo=twitter&style=for-the-badge" alt="a_greynoon" /></a> </p>
 
-- 🔭 I’m currently working on **Startup platform**
-
-- 🌱 I’m currently learning **Spring framework, Software Design and Architecture**
+- 🔭 I’m currently working on **Startup**
 
 - 📫 How to reach me **ahmed_ameen_greynoon@outlook.com**
 
