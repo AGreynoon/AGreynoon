@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Greynoon</h1>
-<h3 align="center">Fullstack Mobile Application Developer | Digital Projects Manager | Technical Support</h3>
+<h3 align="center">Fullstack Mobile Applications Developer | Digital Projects Manager | Technical Support</h3>
 
 - 📫 How to reach me **ahmed_ameen_greynoon@outlook.com**
 
