@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Greynoon</h1>
 <h3 align="center">Mobile Application Developer | Digital Projects Manager | Technical Support</h3>
 
-- 🌱 I’m currently learning **Technical stack**
-
 - 📫 How to reach me **ahmed_ameen_greynoon@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
