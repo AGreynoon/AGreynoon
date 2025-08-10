@@ -1,98 +1,62 @@
-<div align="center">
-  <img height="150" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif"  />
-</div>
+# Hey there, I'm Ahmed 👋
 
-###
+🚀 **Mobile Application Developer** | 📱 **Flutter & Native Android (Kotlin)**  
+☕ Turning caffeine into clean, high-performing mobile apps  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-greynoon/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/00967734633105" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="greynoon.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://medium.com/@ahmedgreynoon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="https://dev.to/a_greynoon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-</div>
+With **2+ years of experience**, I design and build **beautiful, scalable, and user-focused** mobile applications.  
+Whether it’s **cross-platform with Flutter** or **native Android with Kotlin**, I’m passionate about crafting apps that make a difference.
 
-###
+---
 
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<h4 align="left">🍳📱 Flutter Developer | Cooking Up Smooth Apps & Tasty Code 🚀<br><br>I build Flutter apps with the same passion I put into cooking—except my code has fewer burns (hopefully).<br> Whether it’s crafting pixel-perfect UIs or perfecting a new recipe, I believe great results come from <br>the right mix of creativity, precision, and just a pinch of debugging. <br><br>Let’s whip up something amazing—no overcooked code allowed! 🔥👨‍🍳</h4>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
 </div>
 
-###
+---
 
-<h3 align="left">📈 Profile Summary</h3>
+## 💡 What I Love Building
+- 📱 Cross-platform mobile apps that feel truly native  
+- 🤖 Sleek Android apps powered by Kotlin  
+- 🎨 Clean, responsive, and intuitive UI/UX  
+- ⚡ Apps with smooth performance and optimized architecture  
+- 🔗 Real-time features with Firebase & API integrations  
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGreynoon&theme=dark" />
-</div>
+---
 
-###
+## 📱 Projects & Contributions
 
-<h3 align="left">🔥   My Stats :</h3>
+| App Name      | Platform          | Role         | Description |
+|--------------|-------------------|--------------|-------------|
+| **Rakib**    | Flutter (iOS/Android) | Contributor  | Ride-hailing and trip booking app similar to Uber. Implemented features including real-time driver tracking, trip history, and secure payment gateways. |
+| **Tahara**   | Flutter (iOS/Android) | Contributor  | Community-focused app for service booking and scheduling. Worked on booking flows, payment integration, and user dashboards. |
+| **Task Manager** | Flutter (Android) | Builder | Personal productivity app to create, organize, and track tasks using Riverpod for state management. |
+| **Notes OCR** | Flutter (Android) | Builder | Note-taking app with OCR to extract text from images, featuring offline SQLite storage and search functionality. |
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AGreynoon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+## 🌍 Let’s Connect
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ahmed-greynoon/)  
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:ahmedgreynoon@example.com)  
+[![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge)](https://wa.me/00967734633105)  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AGreynoon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AGreynoon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+⭐ _"Code. Coffee. Create."_  
