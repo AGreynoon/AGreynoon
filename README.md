@@ -56,7 +56,3 @@ Whether it’s **cross-platform with Flutter** or **native Android with Kotlin**
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ahmed-greynoon/)  
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:ahmedgreynoon@example.com)  
 [![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge)](https://wa.me/00967734633105)  
-
----
-
-⭐ _"Code. Coffee. Create."_  
