@@ -1,8 +1,6 @@
 # Hey there, I'm Ahmed 👋
   
-Mobile Application Developer with experience in building cross-platform apps from concept to production. 
-Skilled in crafting intuitive user interfaces, integrating with backend services, and collaborating in agile team 
-environments. Focused on delivering smooth user experiences and writing clean, maintainable code.
+Results-driven Mid-Level Flutter Developer specializing in high-performance cross-platform applications. Proven track record of building, optimizing, and delivering real-world, production-ready systems from concept to automated deployment. Adept at leading mobile development efforts, architecting scalable solutions with modern state management, and driving technical excellence through code reviews and cross-functional Agile collaboration.
 
 ---
 
