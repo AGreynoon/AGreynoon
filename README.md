@@ -4,30 +4,6 @@ Results-driven Mid-Level Flutter Developer specializing in high-performance cros
 
 ---
 
-## 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-</div>
-
----
-
 ## 📱 Projects & Contributions
 
 | App Name      | Platform          | Role         | Description | Link       |
