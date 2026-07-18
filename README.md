@@ -15,6 +15,6 @@ Results-driven Mid-Level Flutter Developer specializing in high-performance cros
 ---
 
 ## 🌍 Let’s Connect
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ahmed-greynoon/)  
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ahmed-ameen-greynoon/)  
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:greynoon.dev@gmail.com)  
 [![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge)](https://wa.me/+967734633105)  
